@@ -1,0 +1,15 @@
+{
+  "name": "fn-arity",
+  "version": "0.0.1",
+  "description": "change function's arity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/ef.git"
+  },
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT"
+}
